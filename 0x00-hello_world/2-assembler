@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S $CIFE
+gcc -S $CFILE
