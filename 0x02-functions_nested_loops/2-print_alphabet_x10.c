@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * Description: print_alphabet_x10 using _putchar - in lowercase
+ * @void -print_alphabet_x10
  *
  * Return: 0 (Success)
  */
