@@ -1,21 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
 
 /**
- * main - print a-z using putchar
+ * main - return alphabet to lowercase
  *
- * Return: 0 (Success)
+ * Return: Always 0 (Success)
  */
-int lower_y(tolower(y)
-		{
-		return tolower(y);
-int main(void) 
+int main(void)
 {
-	for (int y = 'A'; y <= 'Z'; y++)
+	int ch = 'a';
+	while (ch <= 'z')
 	{
-		int lower_y = tolower(y);
-		putchar(lower_y);
+		putchar(ch);
+		ch++;
 	}
+	putchar('\n');
 	return (0);
 }
