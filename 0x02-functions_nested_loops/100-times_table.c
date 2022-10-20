@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_time_table - print n starting with 0
+ * print_time_table - using _putchar print n starting with 0
  * Description: if n is greater than 15 or less than 0 print nothing
  * @n: int data type
  */
