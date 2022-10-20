@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * Description: print_alphabet_x10 using _putchar - in lowercase
- * @void -print_alphabet_x10
+ * print_alphabet_x10  - print alphabets using _putchar - in lowercase
+ * @void: print_alphabet_x10
  *
- * Return: 0 (Success)
+ * Return:  (Success)
  */
 void print_alphabet_x10(void)
 {
