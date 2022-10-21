@@ -7,7 +7,7 @@
  */
 int _isdigit(int c)
 {
-	if (c >= '15' && c <= '24')
+	if (c >= 15 && c <= 24)
 		return (1);
 	else
 		return (0);
