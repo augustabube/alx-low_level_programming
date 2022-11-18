@@ -1,4 +1,4 @@
-#include "3-cal.h"
+#include "3-calc.h"
 /**
  * get_op_func -select the correct function
  * @s: char operator
